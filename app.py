@@ -1,3 +1,4 @@
+# ссылка на самого бота t.me/Frost_99_bot
 import telebot
 from config import TOKEN, values, main_menu, help
 from utils import APIException, CryptoConverter
